@@ -1,13 +1,16 @@
-# coc524a08b125eb6e254997fb
+# Twitter_feed_clone
 
-## About Scrimba
+## About:
+This project just aimed to recreate from scratch the Twitter feed principle. Focused mainly on the JavaScript part, not on the design itself.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Context:
+Project related to Scrimba's "The frontend developer career path" training, module 5.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Overview:
+The general visual of the application is as follows:
 
-Happy Coding!
+![twimba](https://user-images.githubusercontent.com/104907909/195842132-80b482ba-b229-4127-b3af-5634dea6b756.PNG)     ![twimba2](https://user-images.githubusercontent.com/104907909/195842147-c5cc7b12-720b-4776-a086-65dd117aa139.PNG)
+
+the user can tweet a message, use the icons of each post, and open the comments when there are some.
+
+To test it by yourself : https://twimba.netlify.app/
